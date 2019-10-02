@@ -13,8 +13,6 @@ require 'library.php';
     <title>test de POO</title>
 </head>
 <body style="text-align: center">
-<h2>Page de test des classe book et library</h2>
-<h4><a href="https://github.com/Retrovers/cours-WEB/tree/master/td4" target="_blank">Voir le code source</a></h4>
 <p>
     - Création de l'instance pour la classe Library, elle a pour nom "Mon centre", comme adresse "Stade velodrome, marseille";
 </p>
